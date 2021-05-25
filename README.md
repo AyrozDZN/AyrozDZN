@@ -1,6 +1,6 @@
 ### Yo, I'm Thibaut aka AyrozDZN.
 
-[![Discord](https://discord.com/api/guilds/743787965590929598/widget.png)](https://discord.gg/rtPazUX) [<img alt = "My Personal Website" src = "https://img.shields.io/badge/-My Personal Website-9745f5"/>](https://www.ayrozdzn.ga) [<img alt = "My bot website" src = "https://img.shields.io/badge/-My Bot Website-9745f5"/>](https://www.zeldria.ga) 
+[<img alt = "My Personal Website" src = "https://img.shields.io/badge/-My Personal Website-9745f5"/>](https://www.ayrozdzn.ga) [<img alt = "My bot website" src = "https://img.shields.io/badge/-My Bot Website-9745f5"/>](https://www.zeldria.ga) 
 
 ## Stats.
 
