@@ -1,10 +1,12 @@
 ### Yo, I'm Thibaut aka AyrozDZN.
 
+[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-4/292636011698192384.png"/>](https://www.discord.gg/rtPazUX)
+
 [<img alt = "My Personal Website" src = "https://img.shields.io/badge/-My Personal Website-9745f5"/>](https://www.ayrozdzn.ga) [<img alt = "My bot website" src = "https://img.shields.io/badge/-My Bot Website-9745f5"/>](https://www.zeldria.ga) 
 
 ## Stats.
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=AyrozDZN&show_icons=true&theme=midnight-purple&count_private=false)](https://www.ayrozdzn.ga/)
+[![AyrozDZN's github stats](https://github-readme-stats.vercel.app/api?username=AyrozDZN&show_icons=true&theme=midnight-purple&count_private=false)](https://www.ayrozdzn.ga/)
 
 ## Languages.
 
