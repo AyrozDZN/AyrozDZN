@@ -1,13 +1,12 @@
 <br>
 
 ## Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>I'm AyrozDZN, Student in 2A of digital engineering at [ESIEA](https://esiea.fr)
+ ![Profile Visits](https://komarev.com/ghpvc/?username=ayrozdzn&style=for-the-badge&label=Profile+visits&color=yellow)
 
 ### 👨‍💻 About Me
  - 🔭 &nbsp;I am currently working on **EveBot** and **[discord-birthday](https://github.com/AyrozDZN/discord-birthday)**
  - 🌱 &nbsp;I’m currently learning Flutter
  - 👨‍💻 &nbsp;Read more about my projects at [portfolio](https://github.com/AyrozDZN?tab=repositories)
- 
- ![Profile Visits](https://komarev.com/ghpvc/?username=ayrozdzn&style=for-the-badge&label=Profile+visits&color=yellow)
 
 <details>
 	<summary><h3>💾 The operating systems I use</h3></summary>
