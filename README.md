@@ -1,28 +1,64 @@
-### Yo, I'm Thibaut aka AyrozDZN.
+<br>
 
-[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-4/292636011698192384.png"/>](https://www.discord.gg/rtPazUX)
+## Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br><br>I'm AyrozDZN, Student in 2A of digital engineering at [ESIEA](https://esiea.fr)
 
-[<img alt = "My Personal Website" src = "https://img.shields.io/badge/-My Personal Website-9745f5"/>](https://www.ayrozdzn.ga) [<img alt = "My bot website" src = "https://img.shields.io/badge/-My Bot Website-9745f5"/>](https://www.zeldria.ga) 
+### 👨‍💻 About Me
+ - 🔭 &nbsp;I am currently working on **EveBot** and **[discord-birthday](https://github.com/AyrozDZN/discord-birthday)**
+ - 🌱 &nbsp;I’m currently learning Flutter
+ - 👨‍💻 &nbsp;Read more about my projects at [portfolio](https://github.com/AyrozDZN?tab=repositories)
+ 
+ ![Profile Visits](https://komarev.com/ghpvc/?username=ayrozdzn&style=for-the-badge&label=Profile+visits&color=yellow)
 
-## Stats.
+<details>
+	<summary><h3>💾 The operating systems I use</h3></summary>
+	<p>
+	<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+	<img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+	<img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+	<img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0">
+	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+	<img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
+	</p>
+</details>
+<details>
+	<summary><h3>💼 The technologies and Tools I use</h3></summary>
+	<p>
+	<img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+	<img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
+	<img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
+	<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+	<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+	<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+	<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
+	<img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+	<br>
+	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+	<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+	<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+	<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+	<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+	<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+	<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+	<br>
+	<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+	<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+	<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+	<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+	<br>
+	<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+	<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+	<br>
+	<img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+	<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+	</p>
+</details>
 
-[![AyrozDZN's github stats](https://github-readme-stats.vercel.app/api?username=AyrozDZN&show_icons=true&theme=midnight-purple&count_private=false)](https://www.ayrozdzn.ga/)
-
-## Languages.
-
-<p>
-	<a href="https://www.w3.org/TR/2017/REC-html52-20171214/"><img alt="Html5" src = "https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/></a>
-	<a href="https://www.w3.org/TR/CSS/#css"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?logo=css3&logoColor=white" /></a>
-	<a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=white" /></a>
-	<a href=""><img alt="php" src="https://img.shields.io/badge/-php-bdd7ee?logo=php&logoColor=white" /></a>
-</p>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrozDZN&layout=compact&theme=midnight-purple)](https://github.com/AyrozDZN)
-
-## My Works.
-
-- [Zeldria](https://top.gg/bot/743398264757551186)
-
-### Contact me on:
-
-[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/rtPazUX)
+### 📥 Contact Me
+<a href="https://discord.gg/y97rVkqefn"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://twitter.com/AyrozDZN"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thibaut-breton/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto: tbreton@et.esiea.fr"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
