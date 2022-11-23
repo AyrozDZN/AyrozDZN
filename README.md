@@ -63,5 +63,5 @@
 
 <details>
 	<summary><h3>🧪 Developer Quote</h3></summary>
-	<p>Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise compilation. Moi, si je devais résumer mon code aujourd’hui avec vous, je dirais que c’est d’abord des segfaults. Des NULL qui m’ont tendu la main, peut-être à un moment où je ne !pouvais, où j’étais seul chez moi. Et c’est assez curieux de se dire que les Math.random(), les undefined forgent une destinée... Parce que quand on a le goût du code, quand on a le goût de l’optimisation, le beau geste, parfois on ne trouve pas le pointeur en face je dirais, le debug qui vous aide à avancer...</p>
+	<p>Vous savez, moi je ne crois pas qu’il y ait de bonne ou de mauvaise compilation. Moi, si je devais résumer mon code aujourd’hui avec vous, je dirais que c’est d’abord des segfaults. Des NULL qui m’ont tendu la main, peut-être à un moment où je !pouvais, où j’étais seul chez moi. Et c’est assez curieux de se dire que les Math.random(), les undefined forgent une destinée... Parce que quand on a le goût du code, quand on a le goût de l’optimisation, le beau geste, parfois on ne trouve pas le pointeur en face je dirais, le debug qui vous aide à avancer...</p>
 </details>
